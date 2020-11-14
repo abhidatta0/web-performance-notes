@@ -22,7 +22,7 @@
    - lazy loading: reduces initial load by almost 70%.
    - responsive images: by width or by density
    - Image CDN
-     - Trivage ported to a image CDN by cloudinary.
+     - Trivago ported to a image CDN by cloudinary.
 
 ## Javascript size
    > "If Javascript doesn't bring user joy , thank it and throw it away"
