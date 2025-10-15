@@ -50,6 +50,6 @@
 - use font-display: swap
 
 ## Compression
-- A new compression library  (better than Gzip)
+- **Brotli** is a new compression library  (better than Gzip)
   - Used by OYO (compress JS and CSS)
   - Used by Twitter (compress API responses)
